@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Monday\Monday\bin\Debug\Monday.exe.config
+C:\Users\Admin\source\repos\Monday\Monday\bin\Debug\Monday.exe
+C:\Users\Admin\source\repos\Monday\Monday\bin\Debug\Monday.pdb
+C:\Users\Admin\source\repos\Monday\Monday\obj\Debug\Monday.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Monday\Monday\obj\Debug\Monday.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Monday\Monday\obj\Debug\Monday.exe
+C:\Users\Admin\source\repos\Monday\Monday\obj\Debug\Monday.pdb
+C:\Users\Admin\source\repos\Monday\Monday\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Monday\Monday\obj\Debug\Monday.csproj.CopyComplete
